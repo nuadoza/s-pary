@@ -1,0 +1,11 @@
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6.2.csproj.AssemblyReference.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6._2.Form1.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6._2.Properties.Resources.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6.2.csproj.GenerateResource.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6.2.csproj.CoreCompileInputs.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6._2.Form2.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\bin\Debug\RAZRABOTKA_6.2.exe.config
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\bin\Debug\RAZRABOTKA_6.2.exe
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\bin\Debug\RAZRABOTKA_6.2.pdb
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6.2.exe
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Бэйнович 2 сем\RAZRABOTKA_6.2\obj\Debug\RAZRABOTKA_6.2.pdb
